@@ -10,3 +10,5 @@ Accommodation service https://github.com/MihajloJankovic/accommodation-service
 User service https://github.com/MihajloJankovic/User-Service
 
 App frontend https://github.com/MihajloJankovic/frontend-service
+
+Profile service https://github.com/MihajloJankovic/profile-service
