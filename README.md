@@ -7,7 +7,7 @@ App Gateway https://github.com/MihajloJankovic/infrastructure-gateway
 
 Accommodation service https://github.com/MihajloJankovic/accommodation-service
 
-Auth service https://github.com/MihajloJankovic/User-Service
+Auth service https://github.com/MihajloJankovic/Auth-Service
 
 App frontend https://github.com/MihajloJankovic/frontend-service
 
