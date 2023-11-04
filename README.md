@@ -4,13 +4,13 @@ Effort Scale :
 
 1 point - 1 Hour
 
-2 point - 4 Hours
+2 points - 4 Hours
 
-3 point - 1 Days
+3 points - 1 Days
 
-4 point - 2 Days
+4 points - 2 Days
 
-5 point - 3 Days
+5 points - 3 Days
 
 This is our team project landing page . We are creating app similar to airbnb .
 
