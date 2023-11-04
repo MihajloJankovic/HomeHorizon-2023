@@ -1,10 +1,15 @@
 # HomeHorizon-2023
 
 Effort Scale : 
+
 1 point - 1 Hour
+
 2 point - 4 Hours
+
 3 point - 1 Days
+
 4 point - 2 Days
+
 5 point - 3 Days
 
 This is our team project landing page . We are creating app similar to airbnb .
