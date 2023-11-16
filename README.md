@@ -25,3 +25,5 @@ App frontend https://github.com/MihajloJankovic/frontend-service
 Profile service https://github.com/MihajloJankovic/profile-service
 
 Reservation service https://github.com/MihajloJankovic/reservation-service
+
+Aviability-Service https://github.com/MihajloJankovic/Aviability-Service
